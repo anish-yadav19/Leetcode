@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anish-yadav19/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+## Array
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Math
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
