@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/anish-yadav19/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0520-detect-capital](https://github.com/anish-yadav19/Leetcode/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/anish-yadav19/Leetcode/tree/master/1544-make-the-string-great) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/anish-yadav19/Leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
