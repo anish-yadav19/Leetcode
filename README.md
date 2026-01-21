@@ -60,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anish-yadav19/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
