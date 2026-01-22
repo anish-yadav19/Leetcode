@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/anish-yadav19/Leetcode/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/anish-yadav19/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anish-yadav19/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anish-yadav19/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anish-yadav19/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
 |  |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
