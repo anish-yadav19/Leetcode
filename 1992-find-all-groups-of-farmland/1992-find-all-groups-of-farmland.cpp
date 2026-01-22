@@ -2,9 +2,9 @@
     Company Tags                : Amazon, Microsoft
 */
 
-//Approach-1 (Using DFS)
+//Approach-2 (Using BFS)
 //T.C : O(m*n)
-//S.C : O(1) AUxiliary space and O(m*n) system stack space because of recursion
+//S.C : O(m*n)
 class Solution {
 public:
     int m;
@@ -13,20 +13,31 @@ public:
         
     vector<vector<int>> directions{{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     
-    void dfs(vector<vector<int>>& land, int i, int j, int& r2, int& c2) {
-        land[i][j] = 0;
+    void bfs(vector<vector<int>>& land, int i, int j, int& r2, int& c2) {
+        queue<pair<int, int>> que;
+        que.push({i, j});
         
-        r2 = max(r2, i);
-        c2 = max(c2, j);
-        
-        for(auto &dir : directions) {
-            int i_ = i + dir[0];
-            int j_ = j + dir[1];
+        while(!que.empty()) {
             
-            if(i_ >= 0 && i_ < m && j_ >= 0 && j_ < n && land[i_][j_] == 1) {
-                dfs(land, i_, j_, r2, c2);
+            pair<int, int> p = que.front();
+            que.pop();
+            
+            r2 = max(r2, p.first);
+            c2 = max(c2, p.second);
+            
+            for(auto &dir : directions) {
+                int i_ = p.first  + dir[0];
+                int j_ = p.second + dir[1];
+                
+                if(i_ >= 0 && i_ < m && j_ >= 0 && j_ < n && land[i_][j_] == 1) {
+                    land[i_][j_] = 0; //visited
+                    que.push({i_, j_});
+                }
             }
+            
         }
+        
+        
     }
     
     vector<vector<int>> findFarmland(vector<vector<int>>& land) {
@@ -43,7 +54,7 @@ public:
                     int r2 = -1;
                     int c2 = -1;
                     
-                    dfs(land, i, j, r2, c2);
+                    bfs(land, i, j, r2, c2);
                     result.push_back({r1, c1, r2, c2});
                 }
                 
