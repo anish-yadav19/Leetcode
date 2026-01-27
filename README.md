@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/anish-yadav19/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/anish-yadav19/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1992-find-all-groups-of-farmland](https://github.com/anish-yadav19/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 ## Breadth-First Search
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anish-yadav19/Leetcode/tree/master/0010-regular-expression-matching) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anish-yadav19/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anish-yadav19/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
