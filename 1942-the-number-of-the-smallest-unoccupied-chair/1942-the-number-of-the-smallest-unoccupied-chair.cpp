@@ -1,53 +1,50 @@
 //Company Tags  		    : Uber, Facebook, Microsoft, Yelp, Google, Snapchat, Amazon, Cisco - Qn had small Variations
  
-//Approach-2 (Using min-heaps)
+//Approach - 3 (min heap + set)
+/*
+    priority_queue(min heap) - To get the friend with minimum departure time
+    ordered_set              - To get the least available chair
+*/
 //T.C : O(nlogn)
 //S.C : O(n)
 class Solution {
 public:
-    typedef pair<int, int> P;
-
+    typedef pair<int, int> p;
+    priority_queue<p, vector<p>, greater<p>> pq;
     int smallestChair(vector<vector<int>>& times, int targetFriend) {
-        
         int n = times.size();
-        priority_queue<P, vector<P>, greater<P> > occupied; //{departTime, chairNo}
-        priority_queue<int, vector<int>, greater<int>> free; //min heap of unoccupied chairs
         
-        int targetFriendArrival = times[targetFriend][0];
-		
-        //Sort based on arrival time
-        sort(times.begin(),times.end());
+        int targetArrivalTime = times[targetFriend][0];
         
-		int chairNo = 0;
-
-        for(int i = 0; i < n; i++) {
-            int arrival  = times[i][0];
-            int depart   = times[i][1];
-            
-            //free chairs accordingly
-            while(!occupied.empty() && occupied.top().first <= arrival) {
-                free.push(occupied.top().second); //this chair is now free
-                occupied.pop();
+        sort(begin(times), end(times));
+        
+        set<int> chairNum; //ordered set (we will get the least available chair number in the beginning) (You could also use min heap for this also)
+        
+        int lastChair = 0;
+        
+        for(vector<int> &time : times) {
+            int arrival  = time[0];
+            int depart   = time[1];
+            int currSeat = -1;
+ 
+            while(!pq.empty() && pq.top().first <= arrival) {
+                chairNum.insert(pq.top().second); //insert the chairs which are being emptied
+                pq.pop();
             }
 
-            if(free.empty()) {
-                occupied.push({depart, chairNo});
-
-                if(arrival == targetFriendArrival)
-                    return chairNo;
-
-                chairNo++;
+            if(chairNum.empty()) {
+                currSeat = lastChair;
+                lastChair++;
             } else {
-                int leastChairAvailable = free.top();
-                free.pop();
-                if(arrival == targetFriendArrival) {
-                    return leastChairAvailable;
-                }
-                occupied.push({depart, leastChairAvailable});
+                currSeat = *(chairNum.begin());  //ordered set (we will get the least available chair number in the beginning)
+                chairNum.erase(currSeat); //this chair is now occupied
             }
+            pq.push({depart, currSeat});
+            if(arrival == targetArrivalTime)
+                return currSeat;
         }
-
+        
         return -1;
     }
-    
 };
+
