@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
+| [3637-trionic-array-i](https://github.com/anish-yadav19/Leetcode/tree/master/3637-trionic-array-i) |
 ## Math
 |  |
 | ------- |
