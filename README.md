@@ -162,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/anish-yadav19/Leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/anish-yadav19/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/anish-yadav19/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
