@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/anish-yadav19/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0520-detect-capital](https://github.com/anish-yadav19/Leetcode/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/anish-yadav19/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/anish-yadav19/Leetcode/tree/master/0761-special-binary-string) |
 | [0838-push-dominoes](https://github.com/anish-yadav19/Leetcode/tree/master/0838-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/anish-yadav19/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/anish-yadav19/Leetcode/tree/master/0761-special-binary-string) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1657-determine-if-two-strings-are-close](https://github.com/anish-yadav19/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/anish-yadav19/Leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/anish-yadav19/Leetcode/tree/master/0761-special-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
