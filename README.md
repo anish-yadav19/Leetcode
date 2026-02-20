@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anish-yadav19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0093-restore-ip-addresses](https://github.com/anish-yadav19/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0520-detect-capital](https://github.com/anish-yadav19/Leetcode/tree/master/0520-detect-capital) |
+| [0696-count-binary-substrings](https://github.com/anish-yadav19/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/anish-yadav19/Leetcode/tree/master/0838-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/anish-yadav19/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/anish-yadav19/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/anish-yadav19/Leetcode/tree/master/0838-push-dominoes) |
 ## Heap (Priority Queue)
 |  |
