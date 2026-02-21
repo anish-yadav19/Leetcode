@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anish-yadav19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -175,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/anish-yadav19/Leetcode/tree/master/0190-reverse-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anish-yadav19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
