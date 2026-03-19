@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/anish-yadav19/Leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1992-find-all-groups-of-farmland](https://github.com/anish-yadav19/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anish-yadav19/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anish-yadav19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0838-push-dominoes](https://github.com/anish-yadav19/Leetcode/tree/master/0838-push-dominoes) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Recursion
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anish-yadav19/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 <!---LeetCode Topics End-->
