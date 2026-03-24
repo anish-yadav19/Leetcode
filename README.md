@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anish-yadav19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0920-number-of-music-playlists](https://github.com/anish-yadav19/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anish-yadav19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0838-push-dominoes](https://github.com/anish-yadav19/Leetcode/tree/master/0838-push-dominoes) |
+| [0920-number-of-music-playlists](https://github.com/anish-yadav19/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anish-yadav19/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anish-yadav19/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Combinatorics
+|  |
+| ------- |
+| [0920-number-of-music-playlists](https://github.com/anish-yadav19/Leetcode/tree/master/0920-number-of-music-playlists) |
 <!---LeetCode Topics End-->
