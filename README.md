@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
+| [3531-count-covered-buildings](https://github.com/anish-yadav19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3637-trionic-array-i](https://github.com/anish-yadav19/Leetcode/tree/master/3637-trionic-array-i) |
 ## Math
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/anish-yadav19/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/anish-yadav19/Leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anish-yadav19/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3531-count-covered-buildings](https://github.com/anish-yadav19/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anish-yadav19/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3531-count-covered-buildings](https://github.com/anish-yadav19/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Binary Search
 |  |
 | ------- |
