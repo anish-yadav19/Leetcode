@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/anish-yadav19/Leetcode/tree/master/0682-baseball-game) |
 | [1544-make-the-string-great](https://github.com/anish-yadav19/Leetcode/tree/master/1544-make-the-string-great) |
 ## Counting
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/anish-yadav19/Leetcode/tree/master/0135-candy) |
+| [0682-baseball-game](https://github.com/anish-yadav19/Leetcode/tree/master/0682-baseball-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/anish-yadav19/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/anish-yadav19/Leetcode/tree/master/0682-baseball-game) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/anish-yadav19/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
 ## Two Pointers
