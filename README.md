@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/anish-yadav19/Leetcode/tree/master/0135-candy) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/anish-yadav19/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/anish-yadav19/Leetcode/tree/master/0135-candy) |
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2938-separate-black-and-white-balls](https://github.com/anish-yadav19/Leetcode/tree/master/2938-separate-black-and-white-balls) |
