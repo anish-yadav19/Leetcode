@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anish-yadav19/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/anish-yadav19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3637-trionic-array-i](https://github.com/anish-yadav19/Leetcode/tree/master/3637-trionic-array-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anish-yadav19/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1992-find-all-groups-of-farmland](https://github.com/anish-yadav19/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Trie
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/anish-yadav19/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anish-yadav19/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Recursion
 |  |
 | ------- |
