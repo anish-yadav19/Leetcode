@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/anish-yadav19/Leetcode/tree/master/0682-baseball-game) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/anish-yadav19/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2069-walking-robot-simulation-ii](https://github.com/anish-yadav19/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1575-count-all-possible-routes](https://github.com/anish-yadav19/Leetcode/tree/master/1575-count-all-possible-routes) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/anish-yadav19/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
