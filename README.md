@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anish-yadav19/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anish-yadav19/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anish-yadav19/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
 ## Backtracking
 |  |
@@ -237,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/anish-yadav19/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
