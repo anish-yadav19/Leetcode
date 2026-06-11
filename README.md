@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/anish-yadav19/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1575-count-all-possible-routes](https://github.com/anish-yadav19/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anish-yadav19/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1642-furthest-building-you-can-reach](https://github.com/anish-yadav19/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/anish-yadav19/Leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1992-find-all-groups-of-farmland](https://github.com/anish-yadav19/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/anish-yadav19/Leetcode/tree/master/0135-candy) |
+| [1642-furthest-building-you-can-reach](https://github.com/anish-yadav19/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2938-separate-black-and-white-balls](https://github.com/anish-yadav19/Leetcode/tree/master/2938-separate-black-and-white-balls) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/anish-yadav19/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/anish-yadav19/Leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 ## Divide and Conquer
 |  |
