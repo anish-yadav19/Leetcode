@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/anish-yadav19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3637-trionic-array-i](https://github.com/anish-yadav19/Leetcode/tree/master/3637-trionic-array-i) |
+| [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/anish-yadav19/Leetcode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anish-yadav19/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/anish-yadav19/Leetcode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
+| [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/anish-yadav19/Leetcode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
 ## Ordered Set
 |  |
 | ------- |
