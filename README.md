@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1739-building-boxes](https://github.com/anish-yadav19/Leetcode/tree/master/1739-building-boxes) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anish-yadav19/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2117-abbreviating-the-product-of-a-range](https://github.com/anish-yadav19/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2117-abbreviating-the-product-of-a-range](https://github.com/anish-yadav19/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 ## Randomized
 |  |
