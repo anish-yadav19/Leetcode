@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/anish-yadav19/Leetcode/tree/master/0135-candy) |
 | [0682-baseball-game](https://github.com/anish-yadav19/Leetcode/tree/master/0682-baseball-game) |
+| [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anish-yadav19/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0996-number-of-squareful-arrays](https://github.com/anish-yadav19/Leetcode/tree/master/0996-number-of-squareful-arrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/anish-yadav19/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/anish-yadav19/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anish-yadav19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anish-yadav19/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0887-super-egg-drop](https://github.com/anish-yadav19/Leetcode/tree/master/0887-super-egg-drop) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0996-number-of-squareful-arrays](https://github.com/anish-yadav19/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anish-yadav19/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/anish-yadav19/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0761-special-binary-string](https://github.com/anish-yadav19/Leetcode/tree/master/0761-special-binary-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anish-yadav19/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anish-yadav19/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0887-super-egg-drop](https://github.com/anish-yadav19/Leetcode/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -294,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
+## Randomized
+|  |
+| ------- |
+| [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
