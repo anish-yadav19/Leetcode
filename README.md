@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/anish-yadav19/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1739-building-boxes](https://github.com/anish-yadav19/Leetcode/tree/master/1739-building-boxes) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anish-yadav19/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1575-count-all-possible-routes](https://github.com/anish-yadav19/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anish-yadav19/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anish-yadav19/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anish-yadav19/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
