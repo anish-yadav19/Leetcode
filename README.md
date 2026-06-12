@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/anish-yadav19/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anish-yadav19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0920-number-of-music-playlists](https://github.com/anish-yadav19/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [0996-number-of-squareful-arrays](https://github.com/anish-yadav19/Leetcode/tree/master/0996-number-of-squareful-arrays) |
