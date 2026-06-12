@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anish-yadav19/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anish-yadav19/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anish-yadav19/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-building-boxes](https://github.com/anish-yadav19/Leetcode/tree/master/1739-building-boxes) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anish-yadav19/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/anish-yadav19/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anish-yadav19/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anish-yadav19/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-building-boxes](https://github.com/anish-yadav19/Leetcode/tree/master/1739-building-boxes) |
 | [1833-maximum-ice-cream-bars](https://github.com/anish-yadav19/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/anish-yadav19/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anish-yadav19/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/anish-yadav19/Leetcode/tree/master/0996-number-of-squareful-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 <!---LeetCode Topics End-->
