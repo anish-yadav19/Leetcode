@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/anish-yadav19/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/anish-yadav19/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anish-yadav19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anish-yadav19/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0920-number-of-music-playlists](https://github.com/anish-yadav19/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [0996-number-of-squareful-arrays](https://github.com/anish-yadav19/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anish-yadav19/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1739-building-boxes](https://github.com/anish-yadav19/Leetcode/tree/master/1739-building-boxes) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anish-yadav19/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
