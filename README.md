@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anish-yadav19/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2938-separate-black-and-white-balls](https://github.com/anish-yadav19/Leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [3612-process-string-with-special-operations-i](https://github.com/anish-yadav19/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/anish-yadav19/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2069-walking-robot-simulation-ii](https://github.com/anish-yadav19/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/anish-yadav19/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
