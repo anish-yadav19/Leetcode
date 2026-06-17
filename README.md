@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/anish-yadav19/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/anish-yadav19/Leetcode/tree/master/0761-special-binary-string) |
 | [0838-push-dominoes](https://github.com/anish-yadav19/Leetcode/tree/master/0838-push-dominoes) |
+| [0880-decoded-string-at-index](https://github.com/anish-yadav19/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anish-yadav19/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/anish-yadav19/Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anish-yadav19/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anish-yadav19/Leetcode/tree/master/0682-baseball-game) |
+| [0880-decoded-string-at-index](https://github.com/anish-yadav19/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1544-make-the-string-great](https://github.com/anish-yadav19/Leetcode/tree/master/1544-make-the-string-great) |
 ## Counting
 |  |
