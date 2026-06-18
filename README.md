@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/anish-yadav19/Leetcode/tree/master/0135-candy) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anish-yadav19/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0679-24-game](https://github.com/anish-yadav19/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/anish-yadav19/Leetcode/tree/master/0682-baseball-game) |
 | [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/anish-yadav19/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/anish-yadav19/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anish-yadav19/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0679-24-game](https://github.com/anish-yadav19/Leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/anish-yadav19/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
