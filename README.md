@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/anish-yadav19/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [0996-number-of-squareful-arrays](https://github.com/anish-yadav19/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/anish-yadav19/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1739-building-boxes](https://github.com/anish-yadav19/Leetcode/tree/master/1739-building-boxes) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anish-yadav19/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/anish-yadav19/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
