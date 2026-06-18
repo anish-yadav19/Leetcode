@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anish-yadav19/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1739-building-boxes](https://github.com/anish-yadav19/Leetcode/tree/master/1739-building-boxes) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/anish-yadav19/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anish-yadav19/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/anish-yadav19/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anish-yadav19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/anish-yadav19/Leetcode/tree/master/0233-number-of-digit-one) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/anish-yadav19/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Graph Theory
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1808-maximize-number-of-nice-divisors](https://github.com/anish-yadav19/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/anish-yadav19/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 ## Randomized
