@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/anish-yadav19/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/anish-yadav19/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0343-integer-break](https://github.com/anish-yadav19/Leetcode/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anish-yadav19/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0679-24-game](https://github.com/anish-yadav19/Leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anish-yadav19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/anish-yadav19/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0343-integer-break](https://github.com/anish-yadav19/Leetcode/tree/master/0343-integer-break) |
 | [0838-push-dominoes](https://github.com/anish-yadav19/Leetcode/tree/master/0838-push-dominoes) |
 | [0887-super-egg-drop](https://github.com/anish-yadav19/Leetcode/tree/master/0887-super-egg-drop) |
 | [0920-number-of-music-playlists](https://github.com/anish-yadav19/Leetcode/tree/master/0920-number-of-music-playlists) |
