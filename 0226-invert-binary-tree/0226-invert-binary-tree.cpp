@@ -15,10 +15,21 @@ public:
         if(root == NULL)
             return NULL;
 
-        swap(root->left, root->right);
+        queue<TreeNode*> q;
+        q.push(root);
 
-        invertTree(root->left);
-        invertTree(root->right);
+        while(!q.empty()) {
+            TreeNode* curr = q.front();
+            q.pop();
+
+            swap(curr->left, curr->right);
+
+            if(curr->left)
+                q.push(curr->left);
+
+            if(curr->right)
+                q.push(curr->right);
+        }
 
         return root;
     }
