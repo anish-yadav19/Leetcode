@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/anish-yadav19/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3637-trionic-array-i](https://github.com/anish-yadav19/Leetcode/tree/master/3637-trionic-array-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/anish-yadav19/Leetcode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/anish-yadav19/Leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anish-yadav19/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3531-count-covered-buildings](https://github.com/anish-yadav19/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/anish-yadav19/Leetcode/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/anish-yadav19/Leetcode/tree/master/0761-special-binary-string) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anish-yadav19/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/anish-yadav19/Leetcode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
 ## Ordered Set
 |  |
@@ -341,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0710-random-pick-with-blacklist](https://github.com/anish-yadav19/Leetcode/tree/master/0710-random-pick-with-blacklist) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
