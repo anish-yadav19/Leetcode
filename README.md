@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anish-yadav19/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0093-restore-ip-addresses](https://github.com/anish-yadav19/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/anish-yadav19/Leetcode/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/anish-yadav19/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/anish-yadav19/Leetcode/tree/master/0761-special-binary-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anish-yadav19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anish-yadav19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anish-yadav19/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anish-yadav19/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1992-find-all-groups-of-farmland](https://github.com/anish-yadav19/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 ## Binary Tree
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anish-yadav19/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anish-yadav19/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2069-walking-robot-simulation-ii](https://github.com/anish-yadav19/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Indexed Tree
 |  |
