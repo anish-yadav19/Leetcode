@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/anish-yadav19/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3612-process-string-with-special-operations-i](https://github.com/anish-yadav19/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anish-yadav19/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
