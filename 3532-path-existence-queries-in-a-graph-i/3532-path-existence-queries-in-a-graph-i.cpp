@@ -40,6 +40,8 @@ public:
     }
 };
 */
+
+/*
 //Approach-2 (Using DFS once and then mark component) - TLE
 //T.C : O((V+E) + q), V + E is for DFS, V = number of vertices, E = number of edges
 //S.C : O(V+E), V = number of vertices, E = number of edges
@@ -80,3 +82,30 @@ public:
         return result;
     }
 };
+*/
+
+//Approach-3 (Simple observation - assign components)
+//T.C : O(n+q)
+//S.C : O(n)
+class Solution {
+public:
+    vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
+        vector<int> component(n, -1);
+        int compId = 0;
+        component[0] = compId;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] - nums[i-1] > maxDiff) {
+                compId++;
+            }
+            component[i] = compId;
+        }
+
+
+        vector<bool> result;
+        for (auto& query : queries) {
+            result.push_back(component[query[0]] == component[query[1]]);
+        }
+        return result;
+    }
+};
+
