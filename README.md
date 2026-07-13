@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anish-yadav19/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anish-yadav19/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1331-rank-transform-of-an-array](https://github.com/anish-yadav19/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anish-yadav19/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/anish-yadav19/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1575-count-all-possible-routes](https://github.com/anish-yadav19/Leetcode/tree/master/1575-count-all-possible-routes) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anish-yadav19/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
