@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/anish-yadav19/Leetcode/tree/master/3161-block-placement-queries) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anish-yadav19/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anish-yadav19/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/anish-yadav19/Leetcode/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/anish-yadav19/Leetcode/tree/master/3453-separate-squares-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anish-yadav19/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anish-yadav19/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anish-yadav19/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/anish-yadav19/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/anish-yadav19/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/anish-yadav19/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anish-yadav19/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anish-yadav19/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k](https://github.com/anish-yadav19/Leetcode/tree/master/3915-maximum-sum-of-alternating-subsequence-with-distance-at-least-k) |
 ## Recursion
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-maximize-number-of-nice-divisors](https://github.com/anish-yadav19/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/anish-yadav19/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2607-make-k-subarray-sums-equal](https://github.com/anish-yadav19/Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anish-yadav19/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Randomized
 |  |
 | ------- |
